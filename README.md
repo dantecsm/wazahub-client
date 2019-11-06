@@ -1,4 +1,4 @@
-# blog-client
+# wazahub-client
 
 > A Vue.js project
 
